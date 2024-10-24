@@ -1,0 +1,3 @@
+Nom du projet : Application de Gestion d'École Privée
+
+Sujet : Développement d'une application web pour la gestion d'une école privée utilisant le stack MERN (MongoDB, Express.js, React.js, Node.js). Cette application permettra de gérer les inscriptions des élèves, les emplois du temps, les notes, la communication entre les enseignants et les parents, ainsi que la gestion des finances et des événements scolaires.
